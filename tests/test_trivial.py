@@ -1,4 +1,4 @@
 #pylint:disable=all
 
-def trivial_test():
+def test_trivial():
     assert 0 == 0
