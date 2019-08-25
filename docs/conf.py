@@ -53,4 +53,3 @@ html_static_path = ['_static']
 
 # https://stackoverflow.com/questions/56336234/build-fail-sphinx-error-contents-rst-not-found
 master_doc = 'index'
-
