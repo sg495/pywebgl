@@ -6,4 +6,4 @@
 [![Generic badge](https://img.shields.io/badge/license-MIT-green.svg)](https://shields.io/)
 
 ## What is this?
-PyWebGL is an object-oriented Python 3 library for composition, simulation and debugging of WebGL 2.0 Programs. It is based on the Khronos Group's [WebGL 2.0 reference](https://www.khronos.org/webgl/). It is specifically intended to aid the high-level algorithmic design and analysis of WebGL programs.
+PyWebGL is an object-oriented Python 3 package for composition, simulation and debugging of WebGL 2.0 Programs. It is based on the Khronos Group's [WebGL 2.0 reference](https://www.khronos.org/webgl/). It is specifically intended to aid the high-level algorithmic design and analysis of WebGL programs.
