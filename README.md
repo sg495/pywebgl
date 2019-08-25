@@ -1,5 +1,5 @@
 # PyWebGL
-[![Build Status](https://api.travis-ci.org/sg495/pywebgl.svg?branch=master)](https://travis-ci.org/sg495/pywebgl)
+[![Build Status](https://api.travis-ci.com/sg495/pywebgl.svg?branch=master)](https://travis-ci.com/sg495/pywebgl)
 [![Documentation Status](https://readthedocs.org/projects/pywebgl/badge/?version=latest)](http://pywebgl.readthedocs.io/?badge=latest)
 [![Generic badge](https://img.shields.io/badge/python-3.7+-green.svg)](https://shields.io/)
 [![Checked with mypy](http://www.mypy-lang.org/static/mypy_badge.svg)](http://mypy-lang.org/)
